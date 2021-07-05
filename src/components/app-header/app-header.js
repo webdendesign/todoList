@@ -1,5 +1,4 @@
 import React from 'react-dom';
-
 import './app-header.css';
 
 const AppHeader = ({toDo, done}) => {
